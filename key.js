@@ -1,4 +1,4 @@
-// key.js
+// key.js.
 // f12.keyDisable.
 
 // # $start?
